@@ -1,0 +1,10 @@
+body {
+  background-color: powderblue;
+  background-image:  url('img6.jpg');
+}
+h1 {
+  color: blue; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+p {
+  color: red; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
